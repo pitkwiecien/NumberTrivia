@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testApp1</string>
+    <string name="get_facts">Pobierz fakty</string>
+    <string name="get_random">Pobierz fakt o losowej liczbie</string>
+    <string name="num_placeholder">NUM</string>
+    <string name="fact_placeholder">FACT</string>
+</resources>
